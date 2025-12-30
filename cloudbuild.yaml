@@ -91,5 +91,5 @@ steps:
       fi
 # [END tf-apply]      
 
-loglogs_bucket: 'gs://terraform-cloudbuilds-tfstate'
+  logs_bucket: 'gs://terraform-cloudbuilds-tfstate'
 

@@ -90,3 +90,6 @@ steps:
         echo "*******************************************************************************"
       fi
 # [END tf-apply]      
+
+loglogs_bucket: 'gs://terraform-cloudbuilds-tfstate'
+

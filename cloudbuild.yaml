@@ -80,5 +80,4 @@ steps:
 # [END tf-apply]      
 
 # A CORREÇÃO ESTÁ AQUI:
-options:
-  logsBucket: 'gs://terraform-cloudbuilds-tfstate'
+logsBucket: 'gs://terraform-cloudbuilds-tfstate'
